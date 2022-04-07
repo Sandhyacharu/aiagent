@@ -8,10 +8,9 @@ To find the PEAS description for the given AI problem and develop an AI agent.
 Explain the problem statement
 
 ## PEAS DESCRIPTION
-[th] [th] [th] [th]
-[th]  td   td   td
-[th]  td   td   td
-[th]  td   td   td
+| Agent Type  | Performance Measure  | Environment | Actuators | Sensors|
+| :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
+| Vaccum-Cleaner  | Cleanliness,Number of Movements  | Rooms | Wheels,suction tool | location,Cleanliness |
 
 ## DESIGN STEPS
 ### STEP 1:
