@@ -260,7 +260,7 @@ if __name__ == "__main__":
         print("AgentLocation : {0}".format(agent.location))
         print("Performance : {0}".format(agent.performance))
         time.sleep(10)
-```python3
+```
 ## OUTPUT
 
 ![WhatsApp Image 2022-04-07 at 9 33 06 PM](https://user-images.githubusercontent.com/75235167/162247429-0fb292bf-9ba6-43a3-bb6a-25c49b61b244.jpeg)
