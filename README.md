@@ -1,7 +1,8 @@
-# Developing AI Agent with PEAS Description
+### EX NO: 01
+### DATE:
+# <p align="center">Developing AI Agent with PEAS Description</p>
 
 ## AIM
-
 To find the PEAS description for the given AI problem and develop an AI agent.
 
 ## THEORY
